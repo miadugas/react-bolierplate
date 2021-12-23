@@ -1,8 +1,8 @@
 # My React boilerplate.
 
-1. Download it
+1. Download
 
-2. Extract it
+2. Extract
 
 3. run npm install in the extracted folder
 
